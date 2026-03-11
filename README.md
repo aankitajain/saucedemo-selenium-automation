@@ -10,7 +10,7 @@ Validations on Cart Page:
 - Continue Shopping button exists
 - Checkout button exists
 
-Note:
+
 ## Note
 I created the automation flow and uploaded the solution to GitHub.
 I was not able to fully execute it locally because I do not currently have the full Java/Selenium setup on my machine.
